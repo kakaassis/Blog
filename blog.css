@@ -1,0 +1,43 @@
+.minha-div {
+    text-align: center;
+    background-color: rgb(8, 88, 149);
+    padding: 10px;
+}
+
+body {
+
+    background-color: rgb(128, 188, 236);
+
+
+
+
+}
+
+.eu-div {
+    text-align: center;
+    background-color: rgb(8, 88, 149);
+    border: 0px solid black;
+    padding: 0px;
+}
+
+.kauany-div {
+
+    text-align: center;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
